@@ -48,6 +48,7 @@ a:hover {
 img {
     max-width: 100%;
     height: auto;
+    min-height: auto;
 }
 
 .border {
